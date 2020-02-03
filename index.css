@@ -1,0 +1,9 @@
+.form,
+.greetings{
+    display: none;
+}
+/* alone the "text" only remove "box(border)" */
+
+.showing{
+    display: block;
+}
